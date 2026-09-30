@@ -6,4 +6,4 @@
 - Enjoy listening to music
 - Like going out with friends
 
-Please feel free to check out my public listed projects below or check out more details about background on my [linkedin](https://www.linkedin.com/in/noev/).
+Please feel free to check out my public repositories/projects below or check out more details about background on my [linkedin](https://www.linkedin.com/in/noev/).
