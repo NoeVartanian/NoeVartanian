@@ -1,11 +1,9 @@
-## Hi there 👋
-
 # Information about me
 
-I'm Noe Vartanian, a MSc Statistics Student at Imperial. A few fun things about me:
+*Hello there,* I'm Noe, a MSc Statistics Student at Imperial. A few fun things about me:
 
 - Play squash competitively
 - Enjoy listening to music
 - Like going out with friends
 
-Check out more details about myself on my [linkedin](https://www.linkedin.com/in/noev/).
+Please feel free to check out my public listed projects below or check out more details about background on my [linkedin](https://www.linkedin.com/in/noev/).
