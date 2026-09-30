@@ -1,6 +1,6 @@
-# Information about me
+## Information
 
-*Hello there,* I'm Noe, a MSc Statistics Student at Imperial. A few fun things about me:
+**Hello there,** I'm Noe, a MSc Statistics Student at Imperial. A few fun things about me:
 
 - Play squash competitively
 - Enjoy listening to music
